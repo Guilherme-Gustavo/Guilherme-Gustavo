@@ -1,5 +1,5 @@
-<h1 align="center">Olá, 👋, sou Guilherme,</h1>
-<h3 align="center">Um eterno aprendiz na vida</h3>
+<h1 align="center">Olá, 👋, sou Guilherme Gustavo da Silva,</h1>
+<h3 align="center">Um eterno aprendiz na vida.</h3>
 
 - 🔭 Atualmente sou um estudante de de programação no biopark, no município de Toledo [Biopark Connect](https://biopark.com.br/)
 
